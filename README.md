@@ -1,7 +1,7 @@
 # All My Works
 
 ## My Itch.io
-[My Itch.io Dashboard](https://itch.io/dashboard)
+[Itch.io Dashboard](https://itch.io/dashboard)
 
 ---
 
