@@ -22,6 +22,5 @@
 ![Unity Render 2](https://github.com/user-attachments/assets/519b3d92-02f8-4e03-9ef9-b066b248c68e)
 ![Unity Render 3](https://github.com/user-attachments/assets/7209c129-8535-4635-a65f-aee3628f48f0)
 
-
-
 ![Blender Render 2](https://github.com/user-attachments/assets/9bf5806f-5aca-4f59-8f91-30d969d263d0)
+yes, its animatronic in ukrain short
