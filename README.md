@@ -9,7 +9,7 @@
 
 - [Roguelike 3D Location Generator](https://github.com/Lev-Petrov/Rooglike_3D_LocationGenerator)
 - [Deeper](https://github.com/Lev-Petrov/deeper)
-- [Bossfish](https://github.com/Lev-Petrov/bossfish) ⚠ spaghetti code
+- [Bossfish-Demo](https://github.com/Lev-Petrov/bossfish) ⚠ spaghetti code
 
 ---
 
